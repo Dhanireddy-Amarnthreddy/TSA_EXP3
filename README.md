@@ -1,5 +1,5 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-Date: 05-03-2024
+Date:
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
@@ -12,8 +12,8 @@ type to fit the data.
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
 ```
-Developed by: Challa Sandeep
-Register No: 212221240011
+Developed by: D.Amarnath Reddy
+Register No: 212221240012
 ```
 ```
 import numpy as np
